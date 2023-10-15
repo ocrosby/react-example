@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Notes
+
+I created this project with the command
+
+```shell
+npx create-react-app react-example
+```
+
+To upgrade the build tooling
+
+```shell
+npm install react-scripts@latest
+```

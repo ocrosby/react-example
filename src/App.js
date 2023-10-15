@@ -46,7 +46,6 @@ function App() {
             amount={expenses[1].amount}
             date={expenses[1].date}
         />
-
         <ExpenseItem
             title={expenses[2].title}
             amount={expenses[2].amount}
