@@ -24,7 +24,7 @@ function Expenses(props) {
             date={props.expenses[3].date}
         />
     </div>
-    )
+    );
 }
 
 export default Expenses;
