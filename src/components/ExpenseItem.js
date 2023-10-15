@@ -1,6 +1,10 @@
 function ExpenseItem() {
     return (
-        <h2>Expense item!</h2>
+        <div>
+            <div>Date</div>
+            <div>Title</div>
+            <div>Amount</div>
+        </div>
     );
 }
 
