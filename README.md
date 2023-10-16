@@ -82,3 +82,10 @@ To upgrade the build tooling
 ```shell
 npm install react-scripts@latest
 ```
+
+# References
+
+- [React](https://reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [React Developer Tools](https://react.dev/learn/react-developer-tools)
+- [React Profiling](https://fb.me/react-devtools-profiling)
