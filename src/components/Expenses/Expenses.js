@@ -19,6 +19,8 @@ function Expenses(props) {
             selected={filteredYear}
             onChangeFilter={filterChangeHandler} />
 
+          <p>Data for years 2019, 2020, & 2022 is hidden.</p>
+
           <ExpenseItem
               title={props.items[0].title}
               amount={props.items[0].amount}
